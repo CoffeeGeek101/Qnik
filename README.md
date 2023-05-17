@@ -12,3 +12,4 @@
 - I have made it responsive to the various screens, using media queries.
 - All the styling has been done using styled components.
 
+Time taken : 1 Day
